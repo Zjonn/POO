@@ -1,0 +1,7 @@
+D:\POO\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+D:\POO\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+D:\POO\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+D:\POO\Interpreter\Interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+D:\POO\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+D:\POO\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+D:\POO\Interpreter\Interpreter\obj\Debug\Interpreter.pdb

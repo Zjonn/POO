@@ -1,0 +1,7 @@
+D:\POO\Lista 4\Project4\Project4\bin\Debug\Project4.exe.config
+D:\POO\Lista 4\Project4\Project4\bin\Debug\Project4.exe
+D:\POO\Lista 4\Project4\Project4\bin\Debug\Project4.pdb
+D:\POO\Lista 4\Project4\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+D:\POO\Lista 4\Project4\Project4\obj\Debug\Project4.exe
+D:\POO\Lista 4\Project4\Project4\obj\Debug\Project4.pdb
+D:\POO\Lista 4\Project4\Project4\obj\Debug\Project4.csprojAssemblyReference.cache

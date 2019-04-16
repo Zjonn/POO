@@ -1,0 +1,6 @@
+D:\POO\Lista 4\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+D:\POO\Lista 4\Project3\Project3\bin\Debug\Project3.exe.config
+D:\POO\Lista 4\Project3\Project3\bin\Debug\Project3.exe
+D:\POO\Lista 4\Project3\Project3\bin\Debug\Project3.pdb
+D:\POO\Lista 4\Project3\Project3\obj\Debug\Project3.exe
+D:\POO\Lista 4\Project3\Project3\obj\Debug\Project3.pdb
