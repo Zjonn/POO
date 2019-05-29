@@ -1,0 +1,7 @@
+C:\Users\Lenovo_x230\Documents\POO\DependencyEngine\DependencyEngine\bin\Debug\DependencyEngine.exe.config
+C:\Users\Lenovo_x230\Documents\POO\DependencyEngine\DependencyEngine\bin\Debug\DependencyEngine.exe
+C:\Users\Lenovo_x230\Documents\POO\DependencyEngine\DependencyEngine\bin\Debug\DependencyEngine.pdb
+C:\Users\Lenovo_x230\Documents\POO\DependencyEngine\DependencyEngine\obj\Debug\DependencyEngine.csprojAssemblyReference.cache
+C:\Users\Lenovo_x230\Documents\POO\DependencyEngine\DependencyEngine\obj\Debug\DependencyEngine.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_x230\Documents\POO\DependencyEngine\DependencyEngine\obj\Debug\DependencyEngine.exe
+C:\Users\Lenovo_x230\Documents\POO\DependencyEngine\DependencyEngine\obj\Debug\DependencyEngine.pdb
